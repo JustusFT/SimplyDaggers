@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SimplyDaggers",
+  "name": "Simply Daggers",
+  "description": "Simply adds daggers.",
+  "version": "1.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JustusFT"],
+  "credits": "JustusFT",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

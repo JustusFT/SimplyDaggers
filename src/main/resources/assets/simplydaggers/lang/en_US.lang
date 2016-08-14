@@ -1,0 +1,29 @@
+item.wooden_dagger.name=Wooden Dagger
+item.stone_dagger.name=Stone Dagger
+item.iron_dagger.name=Iron Dagger
+item.golden_dagger.name=Golden Dagger
+item.diamond_dagger.name=Diamond Dagger
+
+item.poison_wooden_dagger.name=Poison Tipped Wooden Dagger
+item.poison_stone_dagger.name=Poison Tipped Stone Dagger
+item.poison_iron_dagger.name=Poison Tipped Iron Dagger
+item.poison_golden_dagger.name=Poison Tipped Golden Dagger
+item.poison_diamond_dagger.name=Poison Tipped Diamond Dagger
+
+item.weak_wooden_dagger.name=Weakness Tipped Wooden Dagger
+item.weak_stone_dagger.name=Weakness Tipped Stone Dagger
+item.weak_iron_dagger.name=Weakness Tipped Iron Dagger
+item.weak_golden_dagger.name=Weakness Tipped Golden Dagger
+item.weak_diamond_dagger.name=Weakness Tipped Diamond Dagger
+
+item.slow_wooden_dagger.name=Slowness Tipped Wooden Dagger
+item.slow_stone_dagger.name=Slowness Tipped Stone Dagger
+item.slow_iron_dagger.name=Slowness Tipped Iron Dagger
+item.slow_golden_dagger.name=Slowness Tipped Golden Dagger
+item.slow_diamond_dagger.name=Slowness Tipped Diamond Dagger
+
+item.harm_wooden_dagger.name=Harming Tipped Wooden Dagger
+item.harm_stone_dagger.name=Harming Tipped Stone Dagger
+item.harm_iron_dagger.name=Harming Tipped Iron Dagger
+item.harm_golden_dagger.name=Harming Tipped Golden Dagger
+item.harm_diamond_dagger.name=Harming Tipped Diamond Dagger
